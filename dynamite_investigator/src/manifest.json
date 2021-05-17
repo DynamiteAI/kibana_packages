@@ -1,0 +1,9 @@
+{
+	"author": "Dynamite Analytics",
+	"author_email": "jamin@dynamite.ai",
+	"description": "Provides several dashboards for discovering suspicious/malicious behaviors on your network. The dashboards are organized around three primary data-models: alerts, events, and hosts. This package takes advantage of the shared identifiers embedded in generated models to facilitate deep-dives and pivots.",
+	"package_type": "saved_objects",
+	"file_list": ["config.ndjson", "index_patterns.ndjson", "searches.ndjson", "visualizations.ndjson", "dashboards.ndjson"],
+	"name": "Dynamite Investigator"
+}
+
