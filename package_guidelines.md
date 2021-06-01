@@ -68,3 +68,4 @@ By doing so contributors ensure that their work is relatively self-documenting a
 ## Manifest
 1. The manifest description must state the purpose of the package and the high-level use-cases it addresses.
 2. The `file_list` parameter should be ordered as follows: `["config.ndjson", "index_patterns.ndjson", "url.ndjson", "query.ndjson", "searches.ndjson", "visualizations.ndjson", "dashboards.ndjson"]`
+3. The `author_email` must be valid.
