@@ -6,8 +6,6 @@ Packages typically contain searches, visualizations and dashboards combined to f
 
 By default, DynamiteNSM will install the `dynamite-investigator` package, which provides a unique blend of host centric and event/alert centric views.
 
-> ⓘ `dynamite kibana package` is still in the early stages of development, and thus likely to change in future releases.
-
 ## Package Format Guidelines
 We've developed a few internal guidelines that must be followed for those wishing to submit their own package to the Dynamite package repository.
 They are available [here](https://github.com/DynamiteAI/kibana_packages/blob/main/package_guidelines.md).
