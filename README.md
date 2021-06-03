@@ -1,10 +1,15 @@
-# Create a Kibana Package
+# Kibana Packages
 
 DynamiteNSM ships with a simple package manager for installing and uninstalling groups Kibana objects.
 
 Packages typically contain searches, visualizations and dashboards combined to facilitate one or more investigatory workflows.
 
 By default, DynamiteNSM will install the `dynamite-investigator` package, which provides a unique blend of host centric and event/alert centric views.
+
+
+
+# Create a Kibana Package
+
 
 ## Package Format Guidelines
 We've developed a few internal guidelines that must be followed for those wishing to submit their own package to the Dynamite package repository.
