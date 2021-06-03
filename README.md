@@ -15,12 +15,12 @@ They are available [here](https://github.com/DynamiteAI/kibana_packages/blob/mai
 Before you can create a new Kibana package you will need to [setup a working monitor and agent instance](/guides/01_quick_start).
 Once the agent starts sending events Kibana's discovery view will quickly fill up, and you can begin creating new visualisations and dashboards.
 
-![](/data/img/kibana_discovery.png)
+![](.img/kibana_discovery.png)
 
 The `dynamite-investigator` package provides some out-of-the-box saved searches, useful for filtering and
 differentiating between event types. These searches can serve as a basis for creating your own visualizations and dashboards.
 
-![](/data/img/saved_search_select.png)
+![](.img/saved_search_select.png)
 
 ## Creating a Visualization
 Kibana provides a fairly exhaustive set of visualizations for representing both simple and complex relationships in your data.
@@ -28,7 +28,7 @@ Kibana provides a fairly exhaustive set of visualizations for representing both 
 You can create a new visualization by double-clicking the `Vizualize` tab in the left-hand sidebar. From there simply select the `Create visualization` button
 to enter into the `New Vizualization` interface.
 
-![](/data/img/new_vizualization.png)
+![](.img/new_vizualization.png)
 
 ## Adding a Visualization to a Dashboard
 
@@ -40,7 +40,7 @@ a dashboard.
 
 To create a new `Dashboard` double-click the `Dashboard` tab in left-hand sidebar. You may then add any vizualization or saved_search you have created.
 
-![](/data/img/create_new_dashboard_viz.png)
+![](.img/create_new_dashboard_viz.png)
 
 ## Exporting Saved Objects
 
@@ -50,7 +50,7 @@ Within this UI you can export all the objects or just those of a certain type.
 We suggest that objects are exported for each type and without including related objects. By doing so other developers can easily build
 upon the parts of your package most useful to them. 
 
-![](/data/img/export_saved_object_type.png)
+![](.img/export_saved_object_type.png)
 
 ## Creating the Package
 
