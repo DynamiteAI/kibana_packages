@@ -6,6 +6,11 @@ Packages typically contain searches, visualizations and dashboards combined to f
 
 By default, DynamiteNSM will install the `dynamite-investigator` package, which provides a unique blend of host centric and event/alert centric views.
 
+## Available Packages
+
+| Package Name          | Description                                                                                                                                                                                                    | Author             | Downloads                                                                                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dynamite Investigator | Dashboards are organized around three primary data-models: alerts, events, and hosts. This package takes advantage of the shared identifiers embedded in generated models to facilitate deep-dives and pivots. | Dynamite Analytics | [0.1](https://github.com/DynamiteAI/kibana_packages/blob/ef8e6e2a4838ca2046c4c8ac4e3c20f479d575a1/dynamite_investigator/dist/dynamite-investigator.tar.xz?raw=true) |
 
 
 # Create a Kibana Package
