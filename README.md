@@ -6,6 +6,8 @@ Packages typically contain searches, visualizations and dashboards combined to f
 
 By default, DynamiteNSM will install the `dynamite-investigator` package, which provides a unique blend of host centric and event/alert centric views.
 
+> ⓘ To use the `kibana package` command you must install `dynamite-nsm`.
+
 ## Available Packages
 
 | Package Name          | Description                                                                                                                                                                                                    | Author             | Downloads                                                                                                                                                           |
