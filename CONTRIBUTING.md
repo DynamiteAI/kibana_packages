@@ -25,7 +25,7 @@ When contributing to this repository, please first
 
 ### Opening a "Existing Package" Issue
 
-1. New packages should use the `update` label. 
+1. Updates to existing packages should use the `update` label. 
 2. The title of the issue should be descriptive in nature.
 3. The issue description must enumerate the changes made to the package.
 
