@@ -3,8 +3,6 @@
 This repository tracks packages developed by Dynamite team and external contributors. 
 Packages here must follow [specific guidelines](package_guidelines.md) to be listed in this repo.
 
-When contributing to this repository, please first 
-
 ## Submitting a New Package
 1. Open an issue, we will use this issue to discuss your package, and whether it makes sense to merge it into this repo. Our team will use this issue as a primary place for tracking and communication.
 2. Review the [package guidelines](package_guidelines.md) and ensure that your package is following them.
