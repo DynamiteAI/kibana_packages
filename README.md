@@ -4,7 +4,7 @@ DynamiteNSM ships with a simple package manager for installing and uninstalling 
 
 Packages typically contain searches, visualizations and dashboards combined to facilitate one or more investigatory workflows.
 
-By default, DynamiteNSM will install the `dynamite-investigator` package, which provides a unique blend of host centric and event/alert centric views.
+By default, DynamiteNSM will install the `BaseViews` package, which provides a unique blend of host centric and event/alert centric views.
 
 > ⓘ To use the `kibana package` command you must install `dynamite-nsm`.
 
@@ -12,7 +12,7 @@ By default, DynamiteNSM will install the `dynamite-investigator` package, which 
 
 | Package Name          | Description                                                                                                                                                                                                    | Author             | Downloads                                                                                                                                                           |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| BaseViews | Dashboards are organized around three primary data-models: alerts, events, and hosts. This package takes advantage of the shared identifiers embedded in generated models to facilitate deep-dives and pivots. | Dynamite Analytics | [0.3](https://github.com/DynamiteAI/kibana_packages/blob/main/BaseViews/dist/BaseViews.tar.gz?raw=true) |
+| BaseViews | Dashboards are organized around three primary data-models: alerts, conversations, and hosts. This package takes advantage of the shared identifiers embedded in generated models to facilitate deep-dives and pivots. | Dynamite Analytics | [0.3](https://github.com/DynamiteAI/kibana_packages/blob/main/BaseViews/dist/BaseViews.tar.gz?raw=true) |
 
 
 # Create a Kibana Package
