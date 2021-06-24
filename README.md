@@ -12,7 +12,7 @@ By default, DynamiteNSM will install the `dynamite-investigator` package, which 
 
 | Package Name          | Description                                                                                                                                                                                                    | Author             | Downloads                                                                                                                                                           |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dynamite Investigator | Dashboards are organized around three primary data-models: alerts, events, and hosts. This package takes advantage of the shared identifiers embedded in generated models to facilitate deep-dives and pivots. | Dynamite Analytics | [0.3](https://github.com/DynamiteAI/kibana_packages/blob/main/BaseViews/dist/BaseViews.tar.gz?raw=true) |
+| BaseViews | Dashboards are organized around three primary data-models: alerts, events, and hosts. This package takes advantage of the shared identifiers embedded in generated models to facilitate deep-dives and pivots. | Dynamite Analytics | [0.3](https://github.com/DynamiteAI/kibana_packages/blob/main/BaseViews/dist/BaseViews.tar.gz?raw=true) |
 
 
 # Create a Kibana Package
