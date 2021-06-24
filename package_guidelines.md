@@ -9,7 +9,7 @@ By doing so contributors ensure that their work is relatively self-documenting a
     - config.ndjson
     - index-pattern.ndjson
     - url.ndjson
-    - queries.ndjson
+    - query.ndjson
     - search.ndjson
     - visualization.ndjson
     - dashboard.ndjson
