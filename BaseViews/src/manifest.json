@@ -1,0 +1,9 @@
+{
+	"author": "Dynamite Analytics",
+	"author_email": "jamin@dynamite.ai",
+	"description": "The default Kibana package for DynamiteNSM. It contains dashboards and visualizations purpose built for a variety of operational and detection use-cases.",
+	"package_type": "saved_objects",
+	"file_list": ["config.ndjson", "index_patterns.ndjson", "queries.ndjson", "searches.ndjson", "visualizations.ndjson", "dashboards.ndjson"],
+	"name": "BaseViews"
+}
+
